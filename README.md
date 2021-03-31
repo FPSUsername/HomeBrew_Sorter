@@ -3,8 +3,8 @@
 ![HBSorter](resources/hbsorter.png)
 
 ## Credits
-HomeBrew Sorter by Sakya
-GUI & compatibility with game categories by Valantin and suloku
+HomeBrew Sorter by Sakya\
+GUI & compatibility with game categories by Valantin and suloku\
 nuOSLibMOD V2 ([GitLab](https://gitlab.com/HaydenKow/nuoslibmod-v2))
 
 ## File extensions supported
